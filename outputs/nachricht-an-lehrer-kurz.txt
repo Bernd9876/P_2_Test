@@ -1,0 +1,14 @@
+Hi [LEHRER-NAME],
+
+schnelle Info vor heute 14:00:
+
+✓ Ich bin Laie (trotz Hetzner-Konto) — erster Server von Bekanntem
+✓ Zweiter Server heute: AX162-R
+✓ Betriebssystem: Linux (Debian 12)
+✓ Plan & Checkliste schon vorbereitet
+✓ SSH-Key schon da
+
+Anbei eine PDF mit mehr Details — falls du dich vorbereiten möchtest.
+Ansonsten: Wir machen das Schritt für Schritt — bis dann!
+
+Bernd

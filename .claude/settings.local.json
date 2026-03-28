@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.hetzner.com)",
+      "WebFetch(domain:docs.hetzner.com)",
+      "Bash(pip install:*)",
+      "Bash(python:*)"
+    ]
+  }
+}

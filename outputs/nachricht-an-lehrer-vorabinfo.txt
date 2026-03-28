@@ -1,0 +1,98 @@
+================================================================================
+NACHRICHT AN LEHRER — VORAB-INFO ZUR HEUTIGEN SESSION (14:00)
+================================================================================
+
+================================================================================
+VARIANTE 1: Casual / WhatsApp-Ton (EMPFOHLEN)
+================================================================================
+
+Hi [LEHRER-NAME],
+
+schon voraus: Ich habe mir einen Plan gemacht für heute 😊
+
+Kurz zu mir: Ich habe schon ein Hetzner-Konto und einen ersten Server, aber den
+hat mir ein Bekannter eingerichtet. Ich bin deshalb trotzdem totaler Laie in
+Sachen Server & Linux — also nicht wundern, wenn ich Basics fragen muss!
+
+Heute wollen wir einen ZWEITEN Server aufsetzen (AX162-R). Ich habe hier eine
+Checkliste mit den wichtigsten Schritten vorbereitet:
+
+1. Server auf Hetzner.com konfigurieren & bestellen (5 Min)
+2. SSH-Verbindung testen (5 Min)
+3. Linux Basis-Setup (10 Min)
+4. Python + Dependencies installieren (10 Min)
+5. Claude Code vorbereiten (15 Min)
+6. Tests (5 Min)
+
+Das habe ich als PDF/Datei für dich vorbereitet — damit sind wir strukturiert.
+
+Wichtig zu wissen:
+- Betriebssystem: Linux (Debian 12) — NICHT Windows
+- Ich habe schon ein Hetzner-Konto (wir nutzen einfach meine Daten)
+- SSH-Key habe ich schon generiert
+
+Passt das so für dich? Oder lieber anders angehen?
+
+Freue mich auf heute!
+Grüße, Bernd
+
+---
+
+================================================================================
+VARIANTE 2: Etwas formeller (falls du das bevorzugst)
+================================================================================
+
+Lieber [LEHRER-NAME],
+
+ich freue mich auf unsere erste Session heute um 14:00 Uhr! Damit wir effizient
+arbeiten können, habe ich schon einige Vorbereitungen getroffen.
+
+**Kurzer Hintergrund zu mir:**
+Ich habe bereits ein Hetzner-Konto und einen ersten Server, aber den hat ein
+Bekannter für mich aufgesetzt. Ich bin in Sachen Server und Linux Setup also
+noch ganz am Anfang und freue mich, das jetzt zusammen mit dir richtig zu
+verstehen.
+
+**Heute planen wir:**
+Wir richten einen zweiten Server auf (AX162-R bei Hetzner). Ich habe einen
+strukturierten Plan mit den wichtigsten Schritten vorbereitet:
+
+• Server konfigurieren & bestellen (ca. 5 Min)
+• SSH-Verbindung testen (5 Min)
+• Linux Basis-Setup (10 Min)
+• Python + Dependencies (10 Min)
+• Claude Code einrichten (15 Min)
+• Funktionstests (5 Min)
+
+**Was ich schon vorbereitet habe:**
+✓ Hetzner-Account aktiv
+✓ SSH-Key generiert
+✓ OS ausgewählt (Debian 12 Linux)
+✓ Detaillierter Plan als Checkliste
+
+Hast du soweit alles, was du brauchst? Oder sollte ich noch etwas anders
+vorbereiten?
+
+Liebe Grüße,
+Bernd
+
+---
+
+================================================================================
+VARIANTE 3: Super kurz & knapp
+================================================================================
+
+Hi [LEHRER-NAME],
+
+schnelle Info vor heute 14:00:
+
+✓ Ich bin Laie (trotz Hetzner-Konto) — erster Server von Bekanntem
+✓ Zweiter Server heute: AX162-R
+✓ Betriebssystem: Linux (Debian 12)
+✓ Plan & Checkliste schon vorbereitet
+✓ SSH-Key schon da
+
+Wir machen das Schritt für Schritt — bis dann!
+Bernd
+
+================================================================================

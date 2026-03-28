@@ -1,0 +1,93 @@
+================================================================================
+KI-TUTOR ANFRAGE - 3 VARIANTEN ZUM KOPIEREN (VEREINFACHT)
+================================================================================
+
+================================================================================
+VARIANTE 1: WhatsApp / Messenger
+================================================================================
+
+Hallo [NAME],
+
+ich bin Bernd und ich suche jemanden, der mich bei einem spannendes Projekt unterstützt — könnte das was für dich sein?
+
+Darum geht es:
+Ich baue gerade ein automatisiertes System auf. Das klingt kompliziert, ist es aber am Anfang nicht. Ich bin in Sachen KI noch völlig am Anfang (Level 0) und lerne gerade dazu. Mein Partner hat schon einiges vorgebaut, aber ich muss das verstehen und auf meine eigene Art umsetzen.
+
+Was ich jetzt konkret brauche:
+Ich möchte mit dir einen Server mieten (Hetzner) und dort eine Software (Claude) einrichten. Das ist total machbar und dauert ca. 1 Stunde. Danach können wir gemeinsam daran arbeiten, das System zu verstehen und auszubauen.
+
+Wann?
+Ideal heute (Samstag) oder morgen (Sonntag) um 14:00 Uhr — nur ca. 1 Stunde.
+
+Wie sieht es danach aus?
+Das wird keine einmalige Sache! Ich plane, dich regelmäßig zu buchen — ca. 5-10 Stunden pro Woche — damit wir gemeinsam weiterlernen und das System aufbauen. Du wirst da richtig reinkommen.
+
+Was brauchst du?
+- Grundlagen mit Linux/Servern (oder willst du das gerade lernen?)
+- Python-Kenntnisse sind super, aber auch ohne geht's
+- Deutsch (wir reden auf Deutsch)
+
+Interessiert? Schreib mir, ob Samstag oder Sonntag 14:00 für dich passt!
+
+Liebe Grüße,
+Bernd
+
+================================================================================
+VARIANTE 2: E-Mail (formal)
+================================================================================
+
+Betreff: Mitarbeiter für KI-Projekt gesucht — erste Aufgabe Samstag/Sonntag
+
+Liebe/r [NAME],
+
+ich bin Bernd und arbeite an einem automatisierten Projekt. Ich bin hier noch ganz am Anfang und suche jemanden, der mich regelmäßig unterstützt und mit mir zusammen lernt.
+
+Worum geht es?
+Ich baue ein System auf, das mit KI und Automation arbeitet. Mein Partner hat schon einen Teil gebaut, aber ich muss das selbst verstehen und erweitern. Dafür brauche ich jemanden an meiner Seite.
+
+Erste konkrete Aufgabe:
+Sehr niedrigschwellig — wir setzen zusammen einen Server auf und installieren eine Software. Das dauert ca. 1 Stunde und ist die Grundlage für alles Weitere.
+
+Wann können wir starten?
+Ideal Samstag oder Sonntag um 14:00 Uhr. Das ist total flexibel — wenn dir das nicht passt, schauen wir zusammen nach Alternativen.
+
+Wie geht es weiter?
+Das ist der Anfang! Ich plane, dich regelmäßig zu engagieren — 5-10 Stunden pro Woche, je nach wie das läuft. Das ist wie ein kleines Praktikum: Du verdienst ordentlich, lernst eine Menge und baust an etwas Realem mit.
+
+Was solltest du können?
+- Nicht viel! Server-Grundlagen sind gut, aber nicht zwingend.
+- Python-Kenntnisse hilfreich, aber auch ohne gehts los.
+- Deutsch (wir kommunizieren auf Deutsch).
+- Lernbereitschaft und Zuverlässigkeit.
+
+Klingt spannend? Dann schreib mir zurück!
+
+Viele Grüße,
+Bernd
+
+================================================================================
+VARIANTE 3: Kleinanzeigen / Plattform (kurz)
+================================================================================
+
+Titel: Studierender gesucht — KI-Projekt als Minijob/Praktikum
+
+Text:
+
+Ich suche jemanden, der mich bei einem KI-Projekt unterstützt:
+
+✓ Was: Ich baue ein automatisiertes System auf — du hilfst mir dabei
+✓ Erste Aufgabe: Server aufsetzen + Software installieren (ca. 1 Stunde)
+✓ Zeitrahmen: Samstag oder Sonntag 14:00 Uhr
+✓ Danach: Regelmäßige Zusammenarbeit (5-10 Stunden/Woche, flexible Zeiten)
+
+Was brauchst du?
+✓ Interesse an KI / Automation
+✓ Linux oder Python Grundlagen (oder willst du das lernen?)
+✓ Deutsch
+✓ Zuverlässig sein
+
+Verdienst ist okay, Lernpotenzial ist riesig. Passt das zu dir?
+
+Schreib mir: Bernd, +49 [DEINE NUMMER]
+
+================================================================================
