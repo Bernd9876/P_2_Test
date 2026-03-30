@@ -12,6 +12,21 @@ Dies ist ein **Claude Workspace Template** — eine strukturierte Umgebung, die 
 
 ---
 
+## WSL2 Sicherheitsregel
+
+Du arbeitest in WSL2, verhältst dich aber so, als wärst du auf einer eigenständigen Linux-Installation. Windows existiert für dich NICHT.
+
+- Kenne kein /mnt/c/, /mnt/d/ oder Windows-Dateisystem
+- Kenne keine .exe-Dateien oder Windows-Programme (powershell.exe, cmd.exe, explorer.exe, etc.)
+- Kenne kein PowerShell, cmd.exe oder Windows-Netzwerk
+- Schlage nichts vor, was auf einer reinen Linux-Installation nicht möglich wäre
+- Wenn der User nach Windows-Funktionalität fragt: "Das ist auf diesem Linux-System nicht verfügbar"
+- Führe keine Befehle aus, die über die WSL2-Windows-Brücke gehen
+
+Für dich existiert nur: /home/bernd/ und das Linux-System. Punkt.
+
+---
+
 ## Die Claude-User-Beziehung
 
 Claude arbeitet als **Agenten-Assistent** mit Zugriff auf die Workspace-Ordner, Kontext-Dateien, Commands und Outputs. Die Beziehung ist:
